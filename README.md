@@ -1,5 +1,6 @@
-<!-- Banner Image -->
-
+<p align="center">
+  <img src="https://yourimageurl.com" alt="Banner">
+</p>
 
 ## About Me
 
@@ -10,31 +11,31 @@ Hey there! 👋 I'm Zelalem, a passionate Website Developer and IT Enthusiast wi
 ## Skills
 
 ### Front-End Development
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Responsive Design
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript 💻
+- Bootstrap 🅱️
+- Responsive Design 📱
 
 ### Back-End Development
-- **Laravel Framework**
-- PHP
-- MySQL
-- RESTful APIs
-- MVC Architecture
+- **Laravel Framework** 🚀
+- PHP 🐘
+- MySQL 🗄️
+- RESTful APIs 🔄
+- MVC Architecture 🏗️
 
 ### Full-Stack Development
-- Integrating Front-End and Back-End
-- Database Management
-- Server Configuration
-- Version Control (Git)
-- Deployment and Hosting
+- Integrating Front-End and Back-End 🔄
+- Database Management 🗃️
+- Server Configuration ⚙️
+- Version Control (Git) 🛠️
+- Deployment and Hosting 🌐
 
 ### Other Skills
-- Cybersecurity Fundamentals
-- Microsoft Excel Data Management
-- Microsoft Azure Cloud Services
-- Technical Support
+- Cybersecurity Fundamentals 🔒
+- Microsoft Excel Data Management 📊
+- Microsoft Azure Cloud Services ☁️
+- Technical Support 🛠️
 
 ---
 
@@ -52,5 +53,3 @@ Hey there! 👋 I'm Zelalem, a passionate Website Developer and IT Enthusiast wi
 
 <!--
 **zola2311/zola2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
