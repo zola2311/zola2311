@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yourimageurl.com" alt="Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zelalem+Abebe;Full-Stack+Developer;ALX+Software+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -87,7 +87,7 @@ I’ve also worked on practical business and management-focused applications, in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zelalem-abebe-13469b119/)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue)](https://t.me/happyme6)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/zola2311)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/zola2311/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/zola2311/
 
 ---
 
