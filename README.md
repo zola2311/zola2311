@@ -1,45 +1,110 @@
 <p align="center">
-  <img src="https://yourimageurl.com" alt="Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Zelalem+Abebe;Full-Stack+Developer;ALX+Software+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## About Me
+<h1 align="center">🚀 About Me</h1>
 
-Hey there! 👋 I'm Zelalem, a passionate Website Developer and IT Enthusiast with a knack for crafting elegant and efficient solutions. Armed with a Bachelor's degree in Electrical and Computer Engineering and specialized training in software engineering, I bring a unique blend of technical expertise and creative problem-solving skills to the table. My journey in the digital realm has been enriched by hands-on experience in website development using **Laravel framework**, alongside a solid foundation in front-end technologies like HTML5, CSS3, and JavaScript. With a keen interest in cybersecurity, I'm committed to implementing robust security measures to safeguard digital assets and mitigate potential threats. Currently, I'm working on various websites and expanding my knowledge by learning ALX AiCE – AI Career Essentials. Let's connect and collaborate on exciting projects together! 🚀
+Hi, I'm <b>Zelalem</b> — a software developer passionate about building practical, user-focused digital experiences. My work spans front-end development, backend logic, system-level programming, and full-stack projects that solve real-world problems.
 
----
+I’ve built projects around:
+- web application development
+- system programming in C
+- Python-based backend and project architecture
+- dynamic and static websites
+- database and API-driven solutions
 
-## Skills
-
-### Front-End Development
-- HTML5 🌐
-- CSS3 🎨
-- JavaScript 💻
-- Bootstrap 🅱️
-- Responsive Design 📱
-
-### Back-End Development
-- **Laravel Framework** 🚀
-- PHP 🐘
-- MySQL 🗄️
-- RESTful APIs 🔄
-- MVC Architecture 🏗️
-
-### Full-Stack Development
-- Integrating Front-End and Back-End 🔄
-- Database Management 🗃️
-- Server Configuration ⚙️
-- Version Control (Git) 🛠️
-- Deployment and Hosting 🌐
-
-### Other Skills
-- Cybersecurity Fundamentals 🔒
-- Microsoft Excel Data Management 📊
-- Microsoft Azure Cloud Services ☁️
-- Technical Support 🛠️
+I’m especially motivated by learning through projects, exploring new tools, and turning ideas into working software.
 
 ---
 
-## Connect with Me
+## 🧩 Featured Projects
+
+### 1. AirBnB Clone
+A full-stack web application inspired by Airbnb, focused on building a functional booking platform with backend logic, database structure, and application flow.
+
+- Repository: [AirBnB_clone](https://github.com/zola2311/AirBnB_clone)
+- Stack: Python, HTML, CSS, JavaScript
+
+### 2. System Programming & Algorithms
+I’ve built several low-level programming projects covering data structures, algorithms, shell implementation, and memory management.
+
+- [simple_shell](https://github.com/zola2311/simple_shell)
+- [printf](https://github.com/zola2311/printf)
+- [binary_trees](https://github.com/zola2311/binary_trees)
+- [sorting_algorithms](https://github.com/zola2311/sorting_algorithms)
+- [monty](https://github.com/zola2311/monty)
+
+### 3. Web Development & Front-End Projects
+My front-end work includes responsive websites, landing pages, and UI-driven projects.
+
+- [Hana-Catering-and-Restaurant](https://github.com/zola2311/Hana-Catering-and-Restaurant)
+- [Basic-Dynamic-website](https://github.com/zola2311/Basic-Dynamic-website)
+- [basic_web_site_2](https://github.com/zola2311/basic_web_site_2)
+- [alx-frontend](https://github.com/zola2311/alx-frontend)
+- [alx-react](https://github.com/zola2311/alx-react)
+
+### 4. Full-Stack / Business Applications
+I’ve also worked on practical business and management-focused applications.
+
+- [ZoomAutoTrack](https://github.com/zola2311/ZoomAutoTrack)
+- [Multi-Auth-using-brezz-](https://github.com/zola2311/Multi-Auth-using-brezz-)
+- [Naioth](https://github.com/zola2311/Naioth)
+
+---
+
+## 🛠️ Skills
+
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Responsive UI design
+
+### Back-End / Full-Stack
+- Python
+- PHP
+- MySQL
+- REST API concepts
+- MVC architecture
+
+### Systems & Programming
+- C
+- Linux / Shell scripting
+- Data structures
+- Algorithms
+- Git and GitHub
+
+### Tools & Platforms
+- VS Code
+- Git
+- MySQL
+- Azure cloud basics
+- Technical support & troubleshooting
+
+---
+
+## 📚 Learning Path
+A large part of my work comes from the ALX software engineering track, where I explored:
+- low-level programming
+- system engineering
+- web development
+- full-stack project building
+- problem solving and debugging
+
+Repositories like [alx-low_level_programming](https://github.com/zola2311/alx-low_level_programming), [alx-higher_level_programming](https://github.com/zola2311/alx-higher_level_programming), and [alx-system_engineering-devops](https://github.com/zola2311/alx-system_engineering-devops) reflect that learning journey.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zola2311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zelalem-abebe-13469b119/)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-blue)](https://t.me/happyme6)
@@ -48,8 +113,10 @@ Hey there! 👋 I'm Zelalem, a passionate Website Developer and IT Enthusiast wi
 
 ---
 
-<!-- Add any additional graphics or banners here -->
-
+<p align="center">
+  <i>Building ideas into useful software, one project at a time.</i>
+</p>
 
 <!--
 **zola2311/zola2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
